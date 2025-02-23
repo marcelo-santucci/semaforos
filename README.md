@@ -16,3 +16,10 @@ Esta compuesto de los siguientes archivos:
 
 ⛏️Makefile
     👉🏼 Para compilar y generar los programas se ejecuta el comando make
+
+🟢Forma de uso:
+  
+  > Ejecute primero el programa ./leememcomp.elf
+  > Ejecute luego el programa ./escribememcomp proporcionando como parametro de entrada una cadena de texto "Mensaje que desea compartir" 
+
+
